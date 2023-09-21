@@ -1,0 +1,19 @@
+https://www.ncdc.noaa.gov/cdo-web/search
+
+STATION:	USW00024233
+NAME:		SEATTLE TACOMA AIRPORT, WA US
+LATITUDE:	47.44467
+LONGITUDE:	-122.31442
+ELEVATION:	112.5
+AWND = Average daily wind speed (miles per hour)
+PGTM = Peak gust time (hours and minutes, i.e., HHMM)
+PRCP = Precipitation (inches)
+SNOW = Snowfall (inches)
+SNWD = Snow depth (inches)
+TAVG
+TMAX = Maximum temperature (Fahrenheit)
+TMIN = Minimum temperature (Fahrenheit)
+TSUN = Daily total sunshine (minutes)
+WESD = Water equivalent of snow on the ground (inches )
+WT16 = Rain (may include freezing rain, drizzle, and freezing drizzle)
+WT18 = Snow, snow pellets, snow grains, or ice crystals
