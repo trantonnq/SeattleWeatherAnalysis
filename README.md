@@ -1,1 +1,3 @@
-# Seattle Weather Analysis
+# Seattle Weather Exploration and Analysis
+
+We moved from Mississippi to Seattle in January 2023, covering a vast distance across the country. Since these cities are quite far apart and situated in different regions of the country, we anticipate a notable contrast in the weather. To grasp this transition more deeply, leveraging my skills as a Data Analyst, I'm creating a Jupyter notebook to explore and analyze Seattle's historical weather data. My objective is to gain a thorough understanding of Seattle's weather patterns throughout the year.
